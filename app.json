@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Super Converter",
+    "slug": "super-conversor-",
+    "version": "1.0.1",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "com.superconversor.app"
+    },
+    "android": {
+      "package": "com.superconversor.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./superconverter.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "sdkVersion": "53.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "5975a084-6f00-4ffc-ba48-d02c6b83f482"
+      }
+    },
+    "icon": "./superconverter.png",
+    "splash": {
+      "image": "./superconverter.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "plugins": []
+  }
+}
